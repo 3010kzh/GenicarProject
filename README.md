@@ -159,6 +159,7 @@ python test_video.py --arch {model archtecture} --weights {weight path} --frame_
 
 <br/>
 
+
 ## 향후 연구
 - 실제 자율주행에 활용되기 위한 실시간성 고려
 - 더욱 다양한 클래스 (상황) 추가
